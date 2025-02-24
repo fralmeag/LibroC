@@ -1,0 +1,7 @@
+Lacteos Leche 220 0.95
+Lacteos Yogurt 150 1.50
+Granos Arroz 300 2.05
+Granos Frijoles 150 2.50
+Granos Azucar 50 3.00
+Condimentos Sal 180 0.75
+Condimentos Pimienta 100 1.25

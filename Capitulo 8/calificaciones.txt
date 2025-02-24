@@ -1,0 +1,4 @@
+Juan Perez,7.5
+Maria Lopez,5.2
+Carlos Ruiz,4.9
+Ana Gomez,8.1
