@@ -1,0 +1,6 @@
+Yercin 4.5 5.0
+Nicolas 3.5 4.5
+Monica 2.0 1.0
+Rogelio 2.5 1.2
+Vanessa 3.5 4.0
+
